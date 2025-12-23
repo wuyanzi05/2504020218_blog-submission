@@ -1,0 +1,9 @@
+baseURL="https://wuyanzi05.github.io/2504020218_blog-submission/"
+languageCode="zh-cn"
+title="Blog"
+theme="PaperMod"
+
+[params]
+defaultTheme="auto"
+ShowReadingTime=true
+ShowCodeCopyButtons=true
