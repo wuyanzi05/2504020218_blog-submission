@@ -1,10 +1,10 @@
 ---
 title: "Hello Hugo"
 date: 2025-12-23
-draft: false
-tags:
-  - test
+tags: ["test", "hugo"]
+categories: ["测试"]
 ---
+
 
 这是第一篇 Markdown 博客。
 

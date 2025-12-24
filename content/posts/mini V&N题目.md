@@ -1,3 +1,9 @@
+---
+title: "mini V&N题目"
+date: 2025-12-24
+tags: ["CTF", "题目"]
+categories: ["CTF"]
+---
 ## crypto
 
 **题目信息 - pOgOcOd**
